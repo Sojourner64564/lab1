@@ -1,5 +1,0 @@
-digraph MetallurgyTerms {
-	overlap=false rankdir=LR splines=true
-	node [fillcolor=lightblue fontname=Arial fontsize=10 shape=ellipse style=filled]
-	edge [color=gray40 fontname=Arial fontsize=8]
-}
